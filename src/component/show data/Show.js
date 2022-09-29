@@ -1,7 +1,7 @@
 import React from "react";
 import "./show.css";
 
-const Show = ({ user }) => {
+const Show = ({ user, addToCard }) => {
   const { name, age, time, image, about } = user;
   return (
     <div>

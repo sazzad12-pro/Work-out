@@ -12,3 +12,11 @@
   /* border: 2px solid black; */
   width: 15rem;
 }
+
+.exercise-item {
+  /* border: 1px solid black; */
+  margin-right: 20px;
+  width: auto;
+  height: 50px;
+  background-color: whitesmoke;
+}
