@@ -1,0 +1,13 @@
+.number {
+  background-color: whitesmoke;
+  width: auto;
+  height: 50px;
+  border-radius: 20px;
+}
+
+.number h6 {
+  /* border: 1px solid black; */
+  padding: 5px;
+  border-radius: 20px;
+  background-color: white;
+}

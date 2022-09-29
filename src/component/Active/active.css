@@ -1,0 +1,10 @@
+.active-item button {
+  width: 100%;
+  height: 50px;
+  border: none;
+  border-radius: 20px;
+}
+.active-item button:hover {
+  background-color: darkblue;
+  color: white;
+}

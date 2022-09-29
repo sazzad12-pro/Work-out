@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Lunges",
+    "age": "20-25",
+    "image": "https://i.ibb.co/jMGf4Jb/main-reverselunge-0-1.png",
+    "time": 20,
+    "about": "The lunge is a great exercise for runners in that the mechanics are similar to running. "
+  },
+  {
+    "name": " Pushups",
+    "age": "20-25",
+    "image": "https://i.ibb.co/s5jQjh0/16426036798831.png",
+    "time": 15,
+    "about": "Pushups are a fast and effective exercise for building strength. They can be done from virtually anywhere and don’t require any equipment."
+  },
+  {
+    "name": "Squats",
+    "age": "20-25",
+    "image": "https://i.ibb.co/HYw01jb/istockphoto-1322879451-170667a.png",
+    "time": 20,
+    "about": "Squats increase lower body and core strength, as well as flexibility in your lower back and hips. "
+  },
+  {
+    "name": "Dumbbell rows",
+    "age": "20-25",
+    "image": "https://i.ibb.co/RzGKgLv/one-tip-to-maximize-your-dumbbell-row-header-960x540.png",
+    "time": 25,
+    "about": "Not only will these make your back look killer in that dress, but dumbbell rows are also another compound exercise that strengthens multiple muscles in your upper body."
+  },
+  {
+    "name": "Burpees",
+    "age": "20-25",
+    "image": "https://i.ibb.co/SJvK5Q8/blog-image-Burpees-5.png",
+    "time": 10,
+    "about": "An exercise we love to hate, burpees are a super-effective, whole-body move that provides great bang for your buck for cardiovascular endurance and muscle strength."
+  },
+  {
+    "name": "Side planks",
+    "age": "20-25",
+    "image": "https://i.ibb.co/9qQNwYP/bid-side-plank.png",
+    "time": 15,
+    "about": "A healthy body requires a strong core at its foundation, so don’t neglect core-specific moves like the side plank."
+  },
+  {
+    "name": "Glute bridge",
+    "age": "20-25",
+    "image": "https://i.ibb.co/wcL2k9x/v5yonp-Pwi-N3-Bp-WZKSBUYCX-1200-80.png",
+    "time": 30,
+    "about": "The glute bridge effectively works your entire posterior chain, which isn’t only good for you, but it’ll make your booty look perkier, too."
+  }
+]
