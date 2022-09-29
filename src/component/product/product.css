@@ -20,3 +20,11 @@
   height: 50px;
   background-color: whitesmoke;
 }
+
+@media only screen and (max-width: 600px) {
+  .product-item {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+  }
+}
