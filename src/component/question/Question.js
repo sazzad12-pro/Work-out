@@ -42,7 +42,7 @@ const Question = () => {
               aria-expanded="false"
               aria-controls="collapseTwo"
             >
-              Accordion Item #2
+              Whats the differenc props and state ??
             </button>
           </h2>
           <div
@@ -52,14 +52,8 @@ const Question = () => {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is
-              hidden by default, until the collapse plugin adds the appropriate
-              classes that we use to style each element. These classes control
-              the overall appearance, as well as the showing and hiding via CSS
-              transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just
-              about any HTML can go within the <code>.accordion-body</code>,
-              though the transition does limit overflow.
+              Props are read-only.State changes can be asynchronous. Props are
+              immutable. State is mutable.
             </div>
           </div>
         </div>
@@ -73,7 +67,7 @@ const Question = () => {
               aria-expanded="false"
               aria-controls="collapseThree"
             >
-              Accordion Item #3
+              with out fetch what the purpose to use useEffect ??
             </button>
           </h2>
           <div
