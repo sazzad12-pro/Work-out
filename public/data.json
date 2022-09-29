@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Lunges",
     "age": "20-25",
     "image": "https://i.ibb.co/jMGf4Jb/main-reverselunge-0-1.png",
@@ -7,6 +8,7 @@
     "about": "The lunge is a great exercise for runners in that the mechanics are similar to running. "
   },
   {
+    "id": 2,
     "name": " Pushups",
     "age": "20-25",
     "image": "https://i.ibb.co/s5jQjh0/16426036798831.png",
@@ -14,6 +16,7 @@
     "about": "Pushups are a fast and effective exercise for building strength. They can be done from virtually anywhere and don’t require any equipment."
   },
   {
+    "id": 3,
     "name": "Squats",
     "age": "20-25",
     "image": "https://i.ibb.co/HYw01jb/istockphoto-1322879451-170667a.png",
@@ -21,6 +24,7 @@
     "about": "Squats increase lower body and core strength, as well as flexibility in your lower back and hips. "
   },
   {
+    "id": 4,
     "name": "Dumbbell rows",
     "age": "20-25",
     "image": "https://i.ibb.co/RzGKgLv/one-tip-to-maximize-your-dumbbell-row-header-960x540.png",
@@ -28,6 +32,7 @@
     "about": "Not only will these make your back look killer in that dress, but dumbbell rows are also another compound exercise that strengthens multiple muscles in your upper body."
   },
   {
+    "id": 5,
     "name": "Burpees",
     "age": "20-25",
     "image": "https://i.ibb.co/SJvK5Q8/blog-image-Burpees-5.png",
@@ -35,6 +40,7 @@
     "about": "An exercise we love to hate, burpees are a super-effective, whole-body move that provides great bang for your buck for cardiovascular endurance and muscle strength."
   },
   {
+    "id": 6,
     "name": "Side planks",
     "age": "20-25",
     "image": "https://i.ibb.co/9qQNwYP/bid-side-plank.png",
@@ -42,6 +48,7 @@
     "about": "A healthy body requires a strong core at its foundation, so don’t neglect core-specific moves like the side plank."
   },
   {
+    "id": 7,
     "name": "Glute bridge",
     "age": "20-25",
     "image": "https://i.ibb.co/wcL2k9x/v5yonp-Pwi-N3-Bp-WZKSBUYCX-1200-80.png",

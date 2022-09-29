@@ -10,7 +10,7 @@ const Product = () => {
   // useState
   const [users, setUsers] = useState([]);
   const [count, setCount] = useState(0);
-  const [breakTime, setBreak] = useState(0);
+  const [breakTime, setBreak] = useState();
 
   //  useEffect
   useEffect(() => {
@@ -18,9 +18,18 @@ const Product = () => {
       .then((res) => res.json())
       .then((data) => setUsers(data));
   }, []);
+  useEffect(() => {
+    const stored = JSON.parse(localStorage.getItem("time"));
+
+    for (const setData in stored) {
+      setBreak(setData);
+    }
+  }, []);
 
   //  function prameter with props
-  const addToCard = (time) => setCount(count + time);
+  const addToCard = (time) => {
+    setCount(count + time);
+  };
   // break time section function
   const totalSecond = (e) => {
     const breakValue = parseFloat(e.target.innerText);
